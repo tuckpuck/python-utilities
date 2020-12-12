@@ -56,4 +56,10 @@ style.css.map
 ######################
 env.js
 
+# Python Cache #
+######################
 __pycache__
+
+# Private Utilities #
+######################
+local
