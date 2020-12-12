@@ -55,3 +55,5 @@ style.css.map
 # Environmental Variables #
 ######################
 env.js
+
+__pycache__
